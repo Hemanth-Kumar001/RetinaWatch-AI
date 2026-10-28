@@ -1,5 +1,7 @@
 # RetinaWatch AI
 
+🌐 **Live Website:** [Open RetinaWatch AI](https://retinawatch-ai.onrender.com) · 💻 **Source Code:** [GitHub Repository](https://github.com/Hemanth-Kumar001/RetinaWatch-AI)
+
 RetinaWatch AI is a student research prototype for classifying retinal fundus images into five diabetic-retinopathy severity categories. It provides class scores, a Grad-CAM-style visual overlay, basic image-quality warnings, and an uncertainty flag.
 
 ## Research results
